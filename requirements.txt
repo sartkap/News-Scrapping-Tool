@@ -1,0 +1,10 @@
+beautifulsoup4
+certifi
+chardet
+idna 
+pip 
+lxml 
+requests 
+setuptools 
+soupsieve 
+urllib3 
